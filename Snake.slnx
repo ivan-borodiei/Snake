@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="Snake/Snake.csproj" />
+  <Project Path="SnakeWinForms/SnakeWinForms.csproj" Id="fb129542-409d-49b7-8bf4-f9853cf8e41a" />
 </Solution>
